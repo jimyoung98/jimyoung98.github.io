@@ -1,3 +1,2 @@
 # pofol
-popo
-qorwlaud.dothome.co.kr
+http://qorwlaud.dothome.co.kr/popo/index.html
